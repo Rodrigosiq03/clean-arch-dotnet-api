@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BpSuYiQC/TAfxAgK88mQQVgFG4esEIWHYn2WvfncU+OX9QRXDFGGqT2BqJ2SF9bPDvNjVch8105nmmiAsQ7ONw==",
+  "dgSpecHash": "4SxOqCMsBGxhuZKUucr0g6ZqUmBUVzfnM1qZX4FuGd6JkEMJo56Eb06RGFmKl+bqSe9ZVaa2Yi2i3sILGyuL0Q==",
   "success": true,
-  "projectFilePath": "/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Application/CleanArchDotNet.Application.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Application\\CleanArchDotNet.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

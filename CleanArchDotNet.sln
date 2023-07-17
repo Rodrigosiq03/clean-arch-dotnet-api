@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchDotNet.Infra.Data"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchDotNet.Infra.Ioc", "CleanArchDotNet.Infra.Ioc\CleanArchDotNet.Infra.Ioc.csproj", "{A2F61F4B-CC4B-4DAD-BCE0-99211B6BF22A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchDotNet.Tests", "CleanArchDotNet.Tests\CleanArchDotNet.Tests.csproj", "{9CC47CCC-2D05-46D7-AC8C-582093307E98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{A2F61F4B-CC4B-4DAD-BCE0-99211B6BF22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2F61F4B-CC4B-4DAD-BCE0-99211B6BF22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2F61F4B-CC4B-4DAD-BCE0-99211B6BF22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC47CCC-2D05-46D7-AC8C-582093307E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC47CCC-2D05-46D7-AC8C-582093307E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC47CCC-2D05-46D7-AC8C-582093307E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC47CCC-2D05-46D7-AC8C-582093307E98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

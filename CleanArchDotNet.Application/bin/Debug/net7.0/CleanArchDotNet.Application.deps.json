@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CleanArchDotNet.Application/1.0.0": {
+        "dependencies": {
+          "CleanArchDotNet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchDotNet.Application.dll": {}
+        }
+      },
+      "CleanArchDotNet.Domain/1.0.0": {
+        "runtime": {
+          "CleanArchDotNet.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchDotNet.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchDotNet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

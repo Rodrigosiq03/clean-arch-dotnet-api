@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj": {}
   },
   "projects": {
-    "/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj",
         "projectName": "CleanArchDotNet.Domain",
-        "projectPath": "/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj",
-        "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

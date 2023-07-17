@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\bin\Debug\net7.0\CleanArchDotNet.Application.deps.json
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\bin\Debug\net7.0\CleanArchDotNet.Application.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\bin\Debug\net7.0\CleanArchDotNet.Application.pdb
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\bin\Debug\net7.0\CleanArchDotNet.Domain.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\bin\Debug\net7.0\CleanArchDotNet.Domain.pdb
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.csproj.CopyComplete
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\refint\CleanArchDotNet.Application.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\CleanArchDotNet.Application.pdb
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Application\obj\Debug\net7.0\ref\CleanArchDotNet.Application.dll

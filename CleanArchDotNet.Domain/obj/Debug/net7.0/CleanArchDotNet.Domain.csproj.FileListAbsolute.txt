@@ -1,3 +1,15 @@
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/bin/Debug/net7.0/CleanArchDotNet.Domain.deps.json
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/bin/Debug/net7.0/CleanArchDotNet.Domain.dll
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/bin/Debug/net7.0/CleanArchDotNet.Domain.pdb
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/CleanArchDotNet.Domain.csproj.AssemblyReference.cache
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/CleanArchDotNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/CleanArchDotNet.Domain.AssemblyInfoInputs.cache
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/CleanArchDotNet.Domain.AssemblyInfo.cs
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/CleanArchDotNet.Domain.csproj.CoreCompileInputs.cache
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/CleanArchDotNet.Domain.dll
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/refint/CleanArchDotNet.Domain.dll
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/CleanArchDotNet.Domain.pdb
+//wsl.localhost/Ubuntu/home/rodrigo/Development/CleanArchDotNet/CleanArchDotNet.Domain/obj/Debug/net7.0/ref/CleanArchDotNet.Domain.dll
 \\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Domain\bin\Debug\net7.0\CleanArchDotNet.Domain.deps.json
 \\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Domain\bin\Debug\net7.0\CleanArchDotNet.Domain.dll
 \\wsl.localhost\Ubuntu\home\rodrigo\Development\CleanArchDotNet\CleanArchDotNet.Domain\bin\Debug\net7.0\CleanArchDotNet.Domain.pdb

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -22,9 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CleanArchDotNet.Application\CleanArchDotNet.Application.csproj" />
-    <ProjectReference Include="..\CleanArchDotNet.Domain\CleanArchDotNet.Domain.csproj" />
-    <ProjectReference Include="..\CleanArchDotNet.Infra.Data\CleanArchDotNet.Infra.Data.csproj" />
+    <ProjectReference Include="..\CleanArchDotNet.Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>

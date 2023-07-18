@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "CleanArchDotNet.Domain/1.0.0": {
+      "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/CleanArchDotNet.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanArchDotNet.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CleanArchDotNet.Domain/1.0.0": {
+    "Domain/1.0.0": {
       "type": "project",
-      "path": "../CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj",
-      "msbuildProject": "../CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj"
+      "path": "../CleanArchDotNet.Domain/Domain.csproj",
+      "msbuildProject": "../CleanArchDotNet.Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "CleanArchDotNet.Domain >= 1.0.0"
+      "Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Application\\CleanArchDotNet.Application.csproj",
-      "projectName": "CleanArchDotNet.Application",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Application\\CleanArchDotNet.Application.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Application\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Application\\Application.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
       "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Application\\obj\\",
       "projectStyle": "PackageReference",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj": {
-              "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj"
+            "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\Domain.csproj": {
+              "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\Domain.csproj"
             }
           }
         }

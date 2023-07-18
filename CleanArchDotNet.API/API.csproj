@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CleanArchDotNet.Infra.Ioc\CleanArchDotNet.Infra.Ioc.csproj" />
+    <ProjectReference Include="..\CleanArchDotNet.Infra.Ioc\Infra.Ioc.csproj" />
   </ItemGroup>
 
 </Project>

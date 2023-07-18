@@ -489,59 +489,59 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
-      "CleanArchDotNet.Application/1.0.0": {
+      "Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CleanArchDotNet.Domain": "1.0.0"
+          "Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/CleanArchDotNet.Application.dll": {}
+          "bin/placeholder/Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanArchDotNet.Application.dll": {}
+          "bin/placeholder/Application.dll": {}
         }
       },
-      "CleanArchDotNet.Domain/1.0.0": {
+      "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/CleanArchDotNet.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanArchDotNet.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         }
       },
-      "CleanArchDotNet.Infra.Data/1.0.0": {
+      "Infra.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CleanArchDotNet.Domain": "1.0.0",
+          "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.9",
           "Microsoft.EntityFrameworkCore.Design": "7.0.9",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/CleanArchDotNet.Infra.Data.dll": {}
+          "bin/placeholder/Infra.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanArchDotNet.Infra.Data.dll": {}
+          "bin/placeholder/Infra.Data.dll": {}
         }
       },
-      "CleanArchDotNet.Infra.Ioc/1.0.0": {
+      "Infra.Ioc/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "CleanArchDotNet.Application": "1.0.0",
-          "CleanArchDotNet.Domain": "1.0.0",
-          "CleanArchDotNet.Infra.Data": "1.0.0",
+          "Application": "1.0.0",
+          "Domain": "1.0.0",
+          "Infra.Data": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/CleanArchDotNet.Infra.Ioc.dll": {}
+          "bin/placeholder/Infra.Ioc.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanArchDotNet.Infra.Ioc.dll": {}
+          "bin/placeholder/Infra.Ioc.dll": {}
         }
       }
     }
@@ -1489,30 +1489,30 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "CleanArchDotNet.Application/1.0.0": {
+    "Application/1.0.0": {
       "type": "project",
-      "path": "../CleanArchDotNet.Application/CleanArchDotNet.Application.csproj",
-      "msbuildProject": "../CleanArchDotNet.Application/CleanArchDotNet.Application.csproj"
+      "path": "../CleanArchDotNet.Application/Application.csproj",
+      "msbuildProject": "../CleanArchDotNet.Application/Application.csproj"
     },
-    "CleanArchDotNet.Domain/1.0.0": {
+    "Domain/1.0.0": {
       "type": "project",
-      "path": "../CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj",
-      "msbuildProject": "../CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj"
+      "path": "../CleanArchDotNet.Domain/Domain.csproj",
+      "msbuildProject": "../CleanArchDotNet.Domain/Domain.csproj"
     },
-    "CleanArchDotNet.Infra.Data/1.0.0": {
+    "Infra.Data/1.0.0": {
       "type": "project",
-      "path": "../CleanArchDotNet.Infra.Data/CleanArchDotNet.Infra.Data.csproj",
-      "msbuildProject": "../CleanArchDotNet.Infra.Data/CleanArchDotNet.Infra.Data.csproj"
+      "path": "../CleanArchDotNet.Infra.Data/Infra.Data.csproj",
+      "msbuildProject": "../CleanArchDotNet.Infra.Data/Infra.Data.csproj"
     },
-    "CleanArchDotNet.Infra.Ioc/1.0.0": {
+    "Infra.Ioc/1.0.0": {
       "type": "project",
-      "path": "../CleanArchDotNet.Infra.Ioc/CleanArchDotNet.Infra.Ioc.csproj",
-      "msbuildProject": "../CleanArchDotNet.Infra.Ioc/CleanArchDotNet.Infra.Ioc.csproj"
+      "path": "../CleanArchDotNet.Infra.Ioc/Infra.Ioc.csproj",
+      "msbuildProject": "../CleanArchDotNet.Infra.Ioc/Infra.Ioc.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "CleanArchDotNet.Infra.Ioc >= 1.0.0",
+      "Infra.Ioc >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.8",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -1523,9 +1523,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.API\\CleanArchDotNet.API.csproj",
-      "projectName": "CleanArchDotNet.API",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.API\\CleanArchDotNet.API.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.API\\API.csproj",
+      "projectName": "API",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.API\\API.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
       "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.API\\obj\\",
       "projectStyle": "PackageReference",
@@ -1545,8 +1545,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Ioc\\CleanArchDotNet.Infra.Ioc.csproj": {
-              "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Ioc\\CleanArchDotNet.Infra.Ioc.csproj"
+            "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Ioc\\Infra.Ioc.csproj": {
+              "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Ioc\\Infra.Ioc.csproj"
             }
           }
         }

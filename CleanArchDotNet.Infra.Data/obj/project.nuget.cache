@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YD6AX+bZ69TS1l+zZ3PNM3kzHpxPF4+ibaWFckDX5ePaoyI3vUV3K5cmQbXSXI8EQx7hZoi7dGFbypUlJOUTRQ==",
+  "dgSpecHash": "LNBCRfuhTCBBFtKp+y25GsW/8HtwvJk5DN+XaZPXAkffS12NgLBwLsVEJDXzoDRLU6Tq98F3zBfbHV9mNr2ZKw==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Data\\CleanArchDotNet.Infra.Data.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Data\\Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRv+GI6WYRjfaFXfwi66Sb8nk9urvlDOptyJHIZ4fkxZzTtDArj+vITtkKyb70OwWxYp8ZAzUe4qn5heiMsC0Q==",
+  "dgSpecHash": "1+ZRVgH4pJ1vA3vzsvtM7pva7zzmLL9nKSAdz3oxndXqIjFKwFk0cjXy5wDYABduTZWorbuMC0BYIj8/9QajfQ==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.API\\CleanArchDotNet.API.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.8\\microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "BVPvpnj8bUrYn05M3op1ses0EOzeK5V+MrNOZWK7xJA=",
-  "Source": "CleanArchDotNet.API",
-  "BasePath": "_content/CleanArchDotNet.API",
+  "Hash": "bUm1vPqwZHJejLhtNIB7WgmMI8ngxypkYrDApg4MvgQ=",
+  "Source": "API",
+  "BasePath": "_content/API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

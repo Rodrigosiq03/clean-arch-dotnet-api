@@ -395,14 +395,14 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
-      "CleanArchDotNet.Domain/1.0.0": {
+      "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/CleanArchDotNet.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanArchDotNet.Domain.dll": {}
+          "bin/placeholder/Domain.dll": {}
         }
       }
     }
@@ -1025,15 +1025,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "CleanArchDotNet.Domain/1.0.0": {
+    "Domain/1.0.0": {
       "type": "project",
-      "path": "../CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj",
-      "msbuildProject": "../CleanArchDotNet.Domain/CleanArchDotNet.Domain.csproj"
+      "path": "../CleanArchDotNet.Domain/Domain.csproj",
+      "msbuildProject": "../CleanArchDotNet.Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "CleanArchDotNet.Domain >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.9",
@@ -1046,9 +1046,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Data\\CleanArchDotNet.Infra.Data.csproj",
-      "projectName": "CleanArchDotNet.Infra.Data",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Data\\CleanArchDotNet.Infra.Data.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Data\\Infra.Data.csproj",
+      "projectName": "Infra.Data",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Data\\Infra.Data.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
       "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -1067,8 +1067,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj": {
-              "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\CleanArchDotNet.Domain.csproj"
+            "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\Domain.csproj": {
+              "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\CleanArchDotNet.Domain\\Domain.csproj"
             }
           }
         }

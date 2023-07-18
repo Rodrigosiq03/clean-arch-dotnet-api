@@ -7,7 +7,7 @@ namespace CleanArchDotNet.Infra.Ioc;
 
 public static class DependencyInjection
 {
-    public static IServiceCollection AddInfra(this IServiceCollection services, IConfiguration config)
+    public static IServiceCollection AddInfraTest(this IServiceCollection services, IConfiguration config)
     {
         var connectionString = config.GetConnectionString("TestConnection");
         services.AddDbContext<ApplicationDbContext>(opts =>

@@ -1041,32 +1041,34 @@
     ]
   },
   "packageFolders": {
-    "/home/rodrigo/.nuget/packages/": {}
+    "C:\\Users\\rodri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/Infra.Data.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\Infra.Data.csproj",
       "projectName": "Infra.Data",
-      "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/Infra.Data.csproj",
-      "packagesPath": "/home/rodrigo/.nuget/packages/",
-      "outputPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/obj/",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj": {
-              "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj"
+            "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj": {
+              "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1118,7 +1120,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -22,3 +22,15 @@
 /home/rodrigo/Development/CleanArchDotNet/src/Domain/obj/Debug/net7.0/refint/Domain.dll
 /home/rodrigo/Development/CleanArchDotNet/src/Domain/obj/Debug/net7.0/Domain.pdb
 /home/rodrigo/Development/CleanArchDotNet/src/Domain/obj/Debug/net7.0/ref/Domain.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\bin\Debug\net7.0\Domain.deps.json
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\bin\Debug\net7.0\Domain.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\bin\Debug\net7.0\Domain.pdb
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\Domain.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\refint\Domain.dll
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\Domain.pdb
+\\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Domain\obj\Debug\net7.0\ref\Domain.dll

@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/home/rodrigo/Development/CleanArchDotNet/src/API/API.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\API\\API.csproj": {}
   },
   "projects": {
-    "/home/rodrigo/Development/CleanArchDotNet/src/API/API.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodrigo/Development/CleanArchDotNet/src/API/API.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/API/API.csproj",
-        "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/home/rodrigo/Development/CleanArchDotNet/src/API/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Ioc/Infra.Ioc.csproj": {
-                "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Ioc/Infra.Ioc.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Ioc\\Infra.Ioc.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Ioc\\Infra.Ioc.csproj"
               }
             }
           }
@@ -76,34 +79,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/rodrigo/Development/CleanArchDotNet/src/Application/Application.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodrigo/Development/CleanArchDotNet/src/Application/Application.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Application/Application.csproj",
-        "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/home/rodrigo/Development/CleanArchDotNet/src/Application/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj": {
-                "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -133,26 +138,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj",
-        "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -186,34 +193,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/Infra.Data.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/Infra.Data.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\Infra.Data.csproj",
         "projectName": "Infra.Data",
-        "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/Infra.Data.csproj",
-        "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj": {
-                "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -265,40 +274,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Ioc/Infra.Ioc.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Ioc\\Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Ioc/Infra.Ioc.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Ioc\\Infra.Ioc.csproj",
         "projectName": "Infra.Ioc",
-        "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Ioc/Infra.Ioc.csproj",
-        "packagesPath": "/home/rodrigo/.nuget/packages/",
-        "outputPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Ioc/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Ioc\\Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/rodrigo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/rodrigo/Development/CleanArchDotNet/src/Application/Application.csproj": {
-                "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Application/Application.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Application\\Application.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Application\\Application.csproj"
               },
-              "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj": {
-                "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj"
               },
-              "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/Infra.Data.csproj": {
-                "projectPath": "/home/rodrigo/Development/CleanArchDotNet/src/Infra.Data/Infra.Data.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\Infra.Data.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Data\\Infra.Data.csproj"
               }
             }
           }
@@ -338,7 +349,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

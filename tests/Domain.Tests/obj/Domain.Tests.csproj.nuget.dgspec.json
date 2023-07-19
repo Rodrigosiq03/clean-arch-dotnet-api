@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Domain.Tests\\Domain.Tests.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Domain.Tests\\Domain.Tests.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\src\\Domain\\Domain.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\src\\Domain\\Domain.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\src\\Domain\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Domain.Tests\\Domain.Tests.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Domain.Tests\\Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Domain.Tests\\Domain.Tests.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Domain.Tests\\Domain.Tests.csproj",
         "projectName": "Domain.Tests",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Domain.Tests\\Domain.Tests.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Domain.Tests\\Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Domain.Tests\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\src\\Domain\\Domain.csproj": {
-                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\src\\Domain\\Domain.csproj"
+              "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj": {
+                "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj"
               }
             }
           }

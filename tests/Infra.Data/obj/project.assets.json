@@ -5522,11 +5522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Infra.Data\\Infra.Data.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Infra.Data\\Infra.Data.csproj",
       "projectName": "Infra.Data",
-      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Infra.Data\\Infra.Data.csproj",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Infra.Data\\Infra.Data.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Infra.Data\\obj\\",
+      "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",

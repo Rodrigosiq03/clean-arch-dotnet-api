@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yJwWA0MKNnr4rQShm6KUnTu29WeHdScrrFO3ccTsp0lBe1NC1z7HsXsm4F9jeRQgxl61B1l+gNU0AKgfgNmcKg==",
+  "dgSpecHash": "tYkY3WHowUjOt2awCPh27WuZetqT6y7UqhuU2fggsqHI9h4gGqRrn87D8bX6EZswpzTmIgLOtzmuRJovB3WAbg==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\CleanArchDotNet\\tests\\Application.Tests\\Application.Tests.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Application.Tests\\Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodri\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o1SKmpwGpltdPNCQIDZj8wVnkdvJonGdQ57eO6QHB4JqiH+j8uJfgvELXL7t2h15TEsxOsEHA6+kBYRPNyNQrA==",
+  "dgSpecHash": "pq51yC+QDVOmC8EWtXXuT/ChvsPg5/vaVedl2fIbgSHA4ZpzTJUc5eXLtvXZkmHPHlFEuk+VujG+A6OHTDOGjw==",
   "success": true,
-  "projectFilePath": "/home/rodrigo/Development/CleanArchDotNet/src/Domain/Domain.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

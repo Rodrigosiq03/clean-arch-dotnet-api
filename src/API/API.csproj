@@ -20,4 +20,8 @@
       <ProjectReference Include="..\Infra.Ioc\Infra.Ioc.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="Controllers\WeatherForecastController.cs" />
+    </ItemGroup>
+
 </Project>

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/DjcEkzQcALjmpLY5hFcNdR80wMzuu6qWEIEciuWI1ZxIOz0wpE33mQwxa9YbnqIYKCwkLg6Ql4OiEP/JoHpbQ==",
+  "dgSpecHash": "QNfj1Aclu8gIJ50FZ/UzMiCf48UqTOI04jIb+gsPZ8HIedsAn+fM7JtcCFd7nLfYCLXA7Rw6zARIBIzWG6kpkQ==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Application\\Application.csproj",
+  "projectFilePath": "/home/rodrigo/Development/clean-arch-dotnet-api/src/Application/Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rodri\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "/home/rodrigo/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/rodrigo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

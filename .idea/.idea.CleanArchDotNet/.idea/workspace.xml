@@ -11,28 +11,138 @@
   <component name="ChangeListManager">
     <list default="true" id="23a220af-9dab-4453-bab8-956e4d802a3e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CleanArchDotNet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchDotNet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/LambdaHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/LambdaHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/API.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Ioc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Ioc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Ioc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/bin/Debug/net7.0/Infra.Ioc.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/ref/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/ref/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/refint/API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/refint/API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Application.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/bin/Debug/net7.0/Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/obj/Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Application.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Application.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.GlobalUsings.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/ref/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/ref/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/refint/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/refint/Application.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/Entities/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/bin/Debug/net7.0/Domain.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/bin/Debug/net7.0/Domain.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/bin/Debug/net7.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/bin/Debug/net7.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/bin/Debug/net7.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/bin/Debug/net7.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/ref/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/ref/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/refint/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Debug/net7.0/refint/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/bin/Debug/net7.0/Infra.Data.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/ref/Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/ref/Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/refint/Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Debug/net7.0/refint/Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Infra.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Infra.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Infra.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Infra.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/Infra.Data.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/Infra.Data.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/DependencyInjections.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/DependencyInjections.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/Infra.Ioc.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/Infra.Ioc.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Ioc.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Ioc.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Ioc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Ioc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Ioc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/bin/Debug/net7.0/Infra.Ioc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.GlobalUsings.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Application.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.Tests/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Domain.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Domain.Tests/obj/rider.project.restore.info" afterDir="false" />
@@ -63,7 +173,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "RiderIisExpressOptionsPageId",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -132,7 +242,7 @@
       <workItem from="1689770344146" duration="3448000" />
       <workItem from="1689800827337" duration="276000" />
       <workItem from="1689801332018" duration="1260000" />
-      <workItem from="1689812272726" duration="4718000" />
+      <workItem from="1689812272726" duration="9438000" />
     </task>
     <servers />
   </component>

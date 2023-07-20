@@ -1,11 +1,10 @@
 using Amazon.Lambda.AspNetCoreServer;
 using Amazon.Lambda.Core;
-using Microsoft.AspNetCore.Hosting;
 
 [assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
 namespace API;
 
-public class LambdaHanlder : APIGatewayProxyFunction
+public class LambdaHandler : APIGatewayProxyFunction
 {
     protected override void Init(IWebHostBuilder builder)
     {

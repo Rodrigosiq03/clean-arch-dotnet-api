@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infra.Ioc
-build_property.ProjectDir = \\wsl.localhost\Ubuntu\home\rodrigo\Development\clean-arch-dotnet-api\src\Infra.Ioc\
+build_property.ProjectDir = /home/rodrigo/Development/clean-arch-dotnet-api/src/Infra.Ioc/

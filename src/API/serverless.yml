@@ -1,0 +1,23 @@
+service: clean-arch-dotnet-api
+
+provider:
+  name: aws
+  endpointType: EDGE
+  runtime: dotnet6
+  stage: dev
+  region: us-west-1
+  environment:
+    ASPNETCORE_ENVIRONMENT: ${opt:stage, self:provider.stage}
+
+package:
+  artifact: bin/serverless/deploy-package.zip
+
+functions:
+  handler:
+    handler: CleanArchDotNet::API.LambdaHandler::FunctionHandlerAsync
+    events:
+      - http:
+          path: /
+          method: any
+          cors: true          
+        

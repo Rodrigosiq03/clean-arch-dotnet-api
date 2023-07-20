@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8f13EokoQP8h6TIp/WzWlvbH+oJUG6y/6aTbmjpAqir5jBbqsVvXvxNiEb+QwA7FbQ3YS5qSGkvkPxGSW21egQ==",
+  "dgSpecHash": "daW4qfC88FS4xHjQh0QrRt0E9t1OTXY29BprSJpNfNjh9f4d+UWW4A819Lz//vN8BxZQRBXE7N7UqGUbxrTCiQ==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -10,8 +10,10 @@
     "C:\\Users\\rodri\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",

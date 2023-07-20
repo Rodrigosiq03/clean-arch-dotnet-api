@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ejfxzpi5noE8qS5s5AI/o0MrjVxz/cqXlzYhgFOcUX8Lb9II7FWvdT37b3WF84eihz/ZBOWi1sQIai2hapt5SQ==",
+  "dgSpecHash": "Ef2BRIPYpC5xolVkvK2JXgSgUCGhaB+ECmr/qeGDIqOzPCL487CdIr1jO0LNl3M3gNf0/Tmo15gL+jVPvMAvZw==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\src\\Infra.Ioc\\Infra.Ioc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",

@@ -6,7 +6,7 @@ namespace Domain.Entities;
 
 public class User
 {
-    public string Ra { get; private set; }
+        public string Ra { get; private set; }
         public string Name { get; private set; }
         public string Email { get; private set; }
         public State State { get; private set; }

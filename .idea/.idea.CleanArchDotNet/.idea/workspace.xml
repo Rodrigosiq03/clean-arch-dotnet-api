@@ -10,28 +10,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23a220af-9dab-4453-bab8-956e4d802a3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchDotNet/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchDotNet/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/.config/dotnet-tools.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/LambdaHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/aws-lambda-tools-defaults.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/API/serverless.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Domain/Errors/ApplicationError.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Domain/IRepositories/IUserRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Infra.Data/Repositories/UserRepositoryMock.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CleanArchDotNet/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/API/API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CleanArchDotNet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CleanArchDotNet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/API.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/Entities/User.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Domain/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Data/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Debug/net7.0/Infra.Ioc.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/Infra.Ioc.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Infra.Ioc/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Infra.Ioc/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Application.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Application.Tests/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Domain.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Domain.Tests/obj/rider.project.restore.info" afterDir="false" />
@@ -131,7 +132,7 @@
       <workItem from="1689770344146" duration="3448000" />
       <workItem from="1689800827337" duration="276000" />
       <workItem from="1689801332018" duration="1260000" />
-      <workItem from="1689812272726" duration="2621000" />
+      <workItem from="1689812272726" duration="4718000" />
     </task>
     <servers />
   </component>

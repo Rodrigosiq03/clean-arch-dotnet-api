@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 using Domain.Enums;
 
 namespace Application.DTOs;
@@ -17,7 +18,7 @@ public class UserDTO
     [RegularExpression(@"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$", ErrorMessage = "Field EmailDTO is not valid")]
     public string Email { get; set; }
     
-    [EnumDataType(typeof(State), ErrorMessage = "Field StateDTO is not valid")]
+    [JsonConverter(typeof(JsonStringEnumConverter))]
     public State State { get; set; }
     
     

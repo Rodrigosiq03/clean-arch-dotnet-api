@@ -18,6 +18,7 @@ public class UserRepositoryMock : IUserRepository
     public async Task<User> AddUser(User user)
     {
         await _context.Users.AddAsync(user);
+        await _context.SaveChangesAsync();
         return user;
     }
 
@@ -37,6 +38,7 @@ public class UserRepositoryMock : IUserRepository
         }
 
         _context.Users.Remove(user);
+        await _context.SaveChangesAsync();
 
         return user;
 

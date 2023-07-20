@@ -42,11 +42,11 @@ public class UserController : Controller
             return BadRequest(new ApiResponse { Message = "Some parameters are invalid to update this user!" });
         }
 
-        return Ok(new ApiResponse { Message = "User updated successfully!" });
+        return Ok(new ApiResponse { User = userUpdated, Message = "User updated successfully!" });
     }
 
     [HttpDelete("~/api/delete-user", Name = "Delete")]
-    public async Task<ActionResult> Delete([FromQuery] string ra)
+    public async Task<ActionResult> Delete([FromQuery(Name = "ra")] string ra)
     {
         var userDeleted = await _userService.DeleteUser(ra);
         if (userDeleted == null)
@@ -54,11 +54,11 @@ public class UserController : Controller
             return NotFound(new ApiResponse { Message = "No items found for this ra!" });
         }
 
-        return Ok(new ApiResponse { Message = "User deleted successfully!" });
+        return Ok(new { Message = "User deleted successfully!" });
     }
 
     [HttpGet("~/api/get-user-by-ra", Name = "GetByRa")]
-    public async Task<ActionResult> GetByRa([FromQuery] string ra)
+    public async Task<ActionResult> GetByRa([FromQuery(Name = "ra")] string ra)
     {
         var user = await _userService.GetUserByRa(ra);
         if (user == null)
@@ -79,7 +79,8 @@ public class UserController : Controller
 
 public class ApiResponse
 {
+    public UserDTO? User { get; set; } 
     public string? Message { get; set; }
-    public UserDTO? User { get; set; }
+    
 }
 

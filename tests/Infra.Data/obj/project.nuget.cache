@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1uzPD5bJuD59ayMGzDlhGfxACYH7QZzTSJNZpntUgQF2dDGipvdFQ2MUNhSHEdZ4DriRxwqU22DUNsTi4aAPQw==",
+  "dgSpecHash": "Ne9WYttfpfZ1HHLlauPyr4cBEslrJbvzZ7Gh1Kz1YwnN3JYIyJ7jSUxtftqHhxb6JWS7kj4Z2oswK04kVBHogA==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Infra.Data\\Infra.Data.csproj",
   "expectedPackageFiles": [

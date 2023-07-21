@@ -24,10 +24,9 @@ public class UserService : IUserService
         return _mapper.Map<UserDTO>(userAdded);
     }
 
-    public async Task<UserDTO> UpdateUser(UserDTO userDto)
+    public async Task<UserDTO> UpdateUser(string ra)
     {
-        var user = _mapper.Map<User>(userDto);
-        var userUpdated = await _repository.UpdateUser(user);
+        var userUpdated = await _repository.UpdateUser(ra);
         return _mapper.Map<UserDTO>(userUpdated);
     }
 

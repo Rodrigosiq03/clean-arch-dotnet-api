@@ -1,5 +1,7 @@
 {
   "Information": [],
   "configuration": "Release",
-  "framework": "netcoreapp6"
+  "framework": "net6.0",
+  "output-package": "bin/serverless/deploy-package.zip",
+  "function-handler": "API::API.LambdaHandler::FunctionHandlerAsync"
 }

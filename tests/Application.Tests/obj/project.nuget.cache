@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tYkY3WHowUjOt2awCPh27WuZetqT6y7UqhuU2fggsqHI9h4gGqRrn87D8bX6EZswpzTmIgLOtzmuRJovB3WAbg==",
+  "dgSpecHash": "b6XxYIL80eAYRewpG+iPMzHGnbb1Ett57rKSrz/3OfZCSrAVPmDNn3ReA76lKOPoppA9O2g/YUAsZTXlxHKKqg==",
   "success": true,
   "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\rodrigo\\Development\\clean-arch-dotnet-api\\tests\\Application.Tests\\Application.Tests.csproj",
   "expectedPackageFiles": [

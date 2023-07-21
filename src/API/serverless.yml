@@ -14,10 +14,9 @@ package:
 
 functions:
   handler:
-    handler: CleanArchDotNet::API.LambdaHandler::FunctionHandlerAsync
+    handler: API::API.LambdaHandler::FunctionHandlerAsync
     events:
       - http:
-          path: /
+          path: /{proxy+}
           method: any
-          cors: true          
-        
+          cors: true 

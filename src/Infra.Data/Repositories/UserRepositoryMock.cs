@@ -1,4 +1,5 @@
 using Domain.Entities;
+using Domain.Enums;
 using Domain.Errors;
 using Domain.IRepositories;
 using Infra.Data.Contexts;
@@ -8,37 +9,37 @@ namespace Infra.Data.Repositories;
 
 public class UserRepositoryMock : IUserRepository
 {
-    private readonly ApplicationDbContext _context;
-
-    public UserRepositoryMock(ApplicationDbContext context)
+    private List<User> _users = new List<User>()
     {
-        _context = context;
-    }
-    
+        new User("22.00680-0", "Rodrigo Diana Siqueira", "rodrigo.dsiqueira@gmail.com", State.Pending),
+        new User("22.00680-0", "Rodrigo Diana Siqueira", "rodrigo.dsiqueira@gmail.com", State.Pending),
+        new User("22.00680-0", "Rodrigo Diana Siqueira", "rodrigo.dsiqueira@gmail.com", State.Pending),
+        new User("22.00680-0", "Rodrigo Diana Siqueira", "rodrigo.dsiqueira@gmail.com", State.Pending),
+        new User("22.00680-0", "Rodrigo Diana Siqueira", "rodrigo.dsiqueira@gmail.com", State.Pending),
+        new User("22.00680-0", "Rodrigo Diana Siqueira", "rodrigo.dsiqueira@gmail.com", State.Pending)
+    };
+
     public async Task<User> AddUser(User user)
     {
-        await _context.Users.AddAsync(user);
-        await _context.SaveChangesAsync();
+        _users.Add(user);
         return user;
     }
 
-    public async Task<User> UpdateUser(User user)
+    public async Task<User> UpdateUser(string ra)
     {
-        _context.Users.Update(user);
-        await _context.SaveChangesAsync();
+        var user = _users.FirstOrDefault(user => user.Ra == ra)!;
         return user;
     }
 
     public async Task<User> DeleteUser(string ra)
     {
-        var user = await _context.Users.FindAsync(ra);
+        var user = _users.FirstOrDefault(user => user.Ra == ra)!;
         if (user == null)
         {
             throw new ApplicationError(ra);
         }
 
-        _context.Users.Remove(user);
-        await _context.SaveChangesAsync();
+        _users.Remove(user);
 
         return user;
 
@@ -46,18 +47,18 @@ public class UserRepositoryMock : IUserRepository
 
     public async Task<User> GetUserByRa(string ra)
     {
-        var user = await _context.Users.FindAsync(ra);
+        var user = _users.FirstOrDefault(user => user.Ra == ra)!;
         if (user == null)
         {
             throw new ApplicationError(ra);
         }
-        
+
         return user;
     }
 
     public async Task<IEnumerable<User>> GetAllUsers()
     {
-        var users = await _context.Users.ToListAsync();
+        var users = _users.Select(user => user);
         return users;
     }
 }

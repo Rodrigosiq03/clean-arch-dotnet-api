@@ -34,9 +34,9 @@ public class UserController : Controller
     }
     
     [HttpPut("~/api/update-user", Name = "Update")]
-    public async Task<ActionResult> Update([FromBody] UserDTO userDto)
+    public async Task<ActionResult> Update([FromQuery] string ra)
     {
-        var userUpdated = await _userService.UpdateUser(userDto);
+        var userUpdated = await _userService.UpdateUser(ra);
         if (userUpdated == null)
         {
             return BadRequest(new ApiResponse { Message = "Some parameters are invalid to update this user!" });
